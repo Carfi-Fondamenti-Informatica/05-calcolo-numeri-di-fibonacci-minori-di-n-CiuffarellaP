@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main(){
-    int n;
+int main() {
+        int n;
     int p=0;
     int s=1;
     int i=1;
@@ -20,3 +20,4 @@ int main(){
     }
 
     return 0;
+ }
